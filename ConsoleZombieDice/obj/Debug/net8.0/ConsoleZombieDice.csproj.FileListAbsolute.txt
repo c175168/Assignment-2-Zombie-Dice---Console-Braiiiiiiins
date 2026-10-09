@@ -1,0 +1,16 @@
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\bin\Debug\net8.0\ConsoleZombieDice.exe
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\bin\Debug\net8.0\ConsoleZombieDice.deps.json
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\bin\Debug\net8.0\ConsoleZombieDice.runtimeconfig.json
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\bin\Debug\net8.0\ConsoleZombieDice.dll
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\bin\Debug\net8.0\ConsoleZombieDice.pdb
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.AssemblyInfoInputs.cache
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.AssemblyInfo.cs
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.csproj.CoreCompileInputs.cache
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.sourcelink.json
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.dll
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\refint\ConsoleZombieDice.dll
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.pdb
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZombieDice.genruntimeconfig.cache
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ref\ConsoleZombieDice.dll
+C:\Users\bradl\source\repos\ConsoleZombieDice\ConsoleZombieDice\obj\Debug\net8.0\ConsoleZ.CA49B412.Up2Date
